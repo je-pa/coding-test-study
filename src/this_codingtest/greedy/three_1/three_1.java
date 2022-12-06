@@ -1,4 +1,4 @@
-package this_codingtest.greedy;
+package this_codingtest.greedy.three_1;
 
 public class three_1 {
     public static void main(String[] args) {
