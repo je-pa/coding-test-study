@@ -1,6 +1,6 @@
-package this_codingtest.greedy.three_1;
+package this_codingtest.greedy.three_1당장좋은것만선택하는그리디;
 
-public class three_1 {
+public class Three_1 {
     public static void main(String[] args) {
         int n =1260;
         int count = 0;
