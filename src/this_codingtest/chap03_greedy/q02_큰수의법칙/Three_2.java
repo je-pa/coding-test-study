@@ -1,4 +1,4 @@
-package this_codingtest.chap03_greedy.three_02_큰수의법칙;
+package this_codingtest.chap03_greedy.q02_큰수의법칙;
 
 import java.util.Arrays;
 
