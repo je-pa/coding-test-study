@@ -1,4 +1,4 @@
-package this_codingtest.greedy.three_03_숫자카드게임;
+package this_codingtest.chap03_greedy.three_03_숫자카드게임;
 
 import java.util.Arrays;
 
