@@ -1,4 +1,4 @@
-package this_codingtest.greedy.three_2_큰수의법칙;
+package this_codingtest.chap03_greedy.q02_큰수의법칙;
 
 import java.util.Arrays;
 
@@ -8,13 +8,13 @@ public class Three_2 {
         String N_M_K = "5 8 3";//첫째 줄
         String nums = "2 4 5 4 6";//둘째 줄
 //        답 28
-//        String N_M_K = "5 7 2";//첫째 줄
-//        String nums = "3 4 3 4 3";//둘째 줄
+        String N_M_K2 = "5 7 2";//첫째 줄
+        String nums2 = "3 4 3 4 3";//둘째 줄
 
         Three_2 three2 = new Three_2();
 
         System.out.println(three2.solution(N_M_K, nums));
-        System.out.println(three2.solution2(N_M_K, nums));
+        System.out.println(three2.solution2(N_M_K2, nums2));
         System.out.println(three2.solution3(N_M_K, nums));
     }
 
